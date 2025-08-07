@@ -1,4 +1,4 @@
-<div align: center; margin-bottom: 15px;">
+<div align: center>
   Programming languages
 </div>
 
