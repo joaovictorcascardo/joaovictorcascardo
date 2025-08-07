@@ -1,6 +1,5 @@
-<div align="center">
+<div align="center" margin=0px 0px 10px 0px>
 Programming languages
-<div></div>
 </div>
 
 <div align="center">
