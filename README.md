@@ -16,7 +16,7 @@
 </div>
 
 
-h1 align="center">Olá, eu sou o João Victor Pacheco! 👋</h1>
+<h1 align="center">Olá, eu sou o João Victor Pacheco! 👋</h1>
 
 <p align="center">
   <em>Desenvolvedor Front-end apaixonado por criar interfaces bonitas e acessíveis com React e Next.js. Busco sempre performance e código limpo para entregar a melhor experiência ao usuário.</em>
