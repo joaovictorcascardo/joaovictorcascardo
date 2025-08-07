@@ -21,13 +21,3 @@
 <p align="center">
   <em>Desenvolvedor Front-end apaixonado por criar interfaces bonitas e acessíveis com React e Next.js. Busco sempre performance e código limpo para entregar a melhor experiência ao usuário.</em>
 </p>
-
-<h3 align="center">Conecte-se Comigo:</h3>
-<p align="center">
-  <a href="joaovictorpachecoleite@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/joaovictorpachecop" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
