@@ -1,5 +1,5 @@
-<div align="center" margin=0px 0px 10px 0px>
-Programming languages
+<div style="text-align: center; margin-bottom: 15px;">
+  Programming languages
 </div>
 
 <div align="center">
