@@ -11,6 +11,6 @@
 <h3 align="center">Minhas Estatísticas no GitHub</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictorcascardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de João Victor"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorcascardo&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas por João Victor"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovictorcascardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="49%" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorcascardo&layout=compact&langs_count=7&theme=dracula" width="41%" alt="Linguagens Mais Usadas"/>
 </div>
