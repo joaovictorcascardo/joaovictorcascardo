@@ -24,7 +24,7 @@
 
 <h3 align="center">Conecte-se Comigo:</h3>
 <p align="center">
-  <a href="mailto:joaovictorpachecoleite@gmail.com" target="_blank">
+  <a href="joaovictorpachecoleite@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/joaovictorpachecop" target="_blank">
