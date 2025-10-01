@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/joaovictorcascardo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:joaovictorpachecoleite@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
