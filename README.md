@@ -1,10 +1,4 @@
 <h1 align="center">Olá, eu sou o João Victor Pacheco! 👋</h1>
-
-<p align="center">
-  <em>Desenvolvedor Front-end apaixonado por criar interfaces modernas e acessíveis com <strong>React</strong> e <strong>Next.js</strong>.  
-  Sempre focado em performance, boas práticas e código limpo para entregar a melhor experiência ao usuário. 🚀</em>
-</p>
-
 ---
 
 <h3 align="center">🚀 Tecnologias que Utilizo</h3>
