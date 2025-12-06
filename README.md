@@ -13,7 +13,7 @@
 
 <br/>
 
-<h3 align="center">⚡ Estatísticas & Contribuições</h3>
+<h3 align="center"> Estatísticas & Contribuições</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaovictorcascardo&show_icons=true&theme=transparent&hide_border=true&title_color=20C20E&icon_color=20C20E&text_color=999" height="150" alt="stats graph" />
   
