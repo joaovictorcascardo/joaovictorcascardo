@@ -2,10 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o!;Dev+Full+Stack;Code.+Create.+Innovate.;Transformando+caf%C3%A9+em+c%C3%B3digo." alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <h3>👨‍💻 Sobre Mim</h3>
-  <p>Desenvolvedor apaixonado por criar soluções modernas e escaláveis. Especialista em construir o futuro da web com React, Next.js e Java.</p>
-</div>
+
 
 <br/>
 
