@@ -1,36 +1,46 @@
-<h1 align="center">Olá, eu sou o João Victor Pacheco! 👋</h1>
----
-
-<h3 align="center">🚀 Tecnologias que Utilizo</h3>
 <div align="center">
-  <!-- Front-end -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-
-  <!-- Back-end -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o!;Dev+Full+Stack;Code.+Create.+Innovate.;Transformando+caf%C3%A9+em+c%C3%B3digo." alt="Typing SVG" />
 </div>
 
----
-
-<h3 align="center">📊 Minhas Estatísticas no GitHub</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovictorcascardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorcascardo&layout=compact&langs_count=7&theme=dracula" height="180em" alt="Linguagens Mais Usadas"/>
+  <h3>👨‍💻 Sobre Mim</h3>
+  <p>Desenvolvedor apaixonado por criar soluções modernas e escaláveis. Especialista em construir o futuro da web com React, Next.js e Java.</p>
 </div>
 
----
+<br/>
 
-<h3 align="center">🌐 Conecte-se comigo</h3>
-<p align="center">
+<h3 align="center">🛠️ Arsenal Tecnológico</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,git,github,vscode&theme=dark" />
+  </a>
+</div>
+
+<br/>
+
+<h3 align="center">⚡ Estatísticas & Contribuições</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovictorcascardo&show_icons=true&theme=transparent&hide_border=true&title_color=20C20E&icon_color=20C20E&text_color=999" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorcascardo&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=20C20E&text_color=999" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/joaovictorcascardo/joaovictorcascardo/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center"> 
   <a href="https://www.linkedin.com/in/joaovictorcascardo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> 
+  <a href="mailto:joaovictorpachecoleite@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:joaovictorpachecoleite@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
+
+<div align="center">
+   <br/>
+   <img src="https://komarev.com/ghpvc/?username=joaovictorcascardo&style=flat-square&color=20C20E&label=PROFILE+VIEWS" alt="profile views"/>
+</div>
