@@ -7,7 +7,7 @@
 <h3 align="center">🛠️ Arsenal Tecnológico</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,mysql,docker,vite,git,github,vscode&theme=dark" />
   </a>
 </div>
 
