@@ -15,9 +15,9 @@
 
 <h3 align="center"> Estatísticas & Contribuições</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovictorcascardo&show_icons=true&theme=transparent&hide_border=true&title_color=20C20E&icon_color=20C20E&text_color=999" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=joaovictorcascardo&show_icons=true&theme=transparent&hide_border=true&title_color=20C20E&icon_color=20C20E&text_color=999" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorcascardo&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=20C20E&text_color=999" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=joaovictorcascardo&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=20C20E&text_color=999" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
