@@ -1,41 +1,39 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o!;Dev+Full+Stack;Code.+Create.+Innovate.;Transformando+caf%C3%A9+em+c%C3%B3digo." alt="Typing SVG" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img src="./assets/banner-light.svg" alt="João Victor Pacheco, Desenvolvedor Full Stack" width="100%">
+</picture>
 
-<br/>
+Faço Análise e Desenvolvimento de Sistemas na Faminas e sou trainee de Java na Foursys. Gosto de pegar o problema do começo: entender a regra de negócio, modelar o banco, montar a API e depois fazer a tela que consome ela.
 
-<h3 align="center">🛠️ Arsenal Tecnológico</h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,mysql,docker,vite,git,github,vscode&theme=dark" />
-  </a>
-</div>
+## Projetos
 
-<br/>
+<p>
+<a href="https://github.com/joaovictorcascardo/price-monitor-api"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-price-monitor-api-dark.svg"><img src="./assets/card-price-monitor-api-light.svg" alt="price-monitor-api" width="49%"></picture></a>
+<a href="https://github.com/joaovictorcascardo/borala-api"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-borala-dark.svg"><img src="./assets/card-borala-light.svg" alt="borala-api" width="49%"></picture></a>
+</p>
+<p>
+<a href="https://github.com/joaovictorcascardo/SnackToGit"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-SnackToGit-dark.svg"><img src="./assets/card-SnackToGit-light.svg" alt="SnackToGit" width="49%"></picture></a>
+<a href="https://github.com/joaovictorcascardo/bytestore"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-bytestore-dark.svg"><img src="./assets/card-bytestore-light.svg" alt="bytestore" width="49%"></picture></a>
+</p>
+<p>
+<a href="https://github.com/joaovictorcascardo/equus-app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-equus-app-dark.svg"><img src="./assets/card-equus-app-light.svg" alt="equus-app" width="49%"></picture></a>
+<a href="https://github.com/joaovictorcascardo/analise-desempenho-estruturas-java"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-analise-desempenho-estruturas-java-dark.svg"><img src="./assets/card-analise-desempenho-estruturas-java-light.svg" alt="analise-desempenho-estruturas-java" width="49%"></picture></a>
+</p>
 
-<h3 align="center"> Estatísticas & Contribuições</h3>
-<div align="center">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=joaovictorcascardo&show_icons=true&theme=transparent&hide_border=true&title_color=20C20E&icon_color=20C20E&text_color=999" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=joaovictorcascardo&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=20C20E&text_color=999" height="150" alt="languages graph" />
-</div>
+## Tecnologias
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/joaovictorcascardo/joaovictorcascardo/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,nodejs,express,ts,js,react,nextjs,tailwind,mysql,postgres,git,docker" alt="Java, Node.js, Express, TypeScript, JavaScript, React, Next.js, Tailwind, MySQL, PostgreSQL, Git, Docker" />
+</p>
 
-<br/>
+## Contato
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/joaovictorcascardo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> 
-  <a href="mailto:joaovictorpachecoleite@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/joaovictorcascardo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:joaovictorpachecoleite@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-<div align="center">
-   <br/>
-   <img src="https://komarev.com/ghpvc/?username=joaovictorcascardo&style=flat-square&color=20C20E&label=PROFILE+VIEWS" alt="profile views"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaovictorcascardo/joaovictorcascardo/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/joaovictorcascardo/joaovictorcascardo/output/github-contribution-grid-snake.svg" alt="Cobrinha comendo o gráfico de contribuições" width="100%">
+</picture>

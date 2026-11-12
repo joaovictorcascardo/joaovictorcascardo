@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="210" viewBox="0 0 600 210" role="img" aria-label="SnackToGit">
+  <style>
+    .repo { font: 600 13px ui-monospace, SFMono-Regular, Consolas, monospace; fill: #1a7f37; }
+    .title { font: 700 22px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .desc { font: 400 15px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #59636e; }
+    .chip { font: 500 12.5px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+  </style>
+  <rect x="0.5" y="0.5" width="599" height="209" rx="12" fill="#ffffff" stroke="#d1d9e0"/>
+  <text x="28" y="38" class="repo">SnackToGit</text>
+  <text x="28" y="68" class="title">SnackToGit</text>
+  <text x="28" y="98" class="desc">Extensão do Chrome que pega um projeto do Expo Snack e faz o</text><text x="28" y="120" class="desc">commit direto no GitHub.</text>
+  <rect x="28" y="160" width="100" height="26" rx="13" fill="#f6f8fa" stroke="#d1d9e0"/><text x="78.0" y="177.5" text-anchor="middle" class="chip">JavaScript</text><rect x="136" y="160" width="69" height="26" rx="13" fill="#f6f8fa" stroke="#d1d9e0"/><text x="170.5" y="177.5" text-anchor="middle" class="chip">Chrome</text><rect x="213" y="160" width="100" height="26" rx="13" fill="#f6f8fa" stroke="#d1d9e0"/><text x="263.0" y="177.5" text-anchor="middle" class="chip">GitHub API</text>
+</svg>
