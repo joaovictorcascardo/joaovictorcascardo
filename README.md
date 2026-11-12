@@ -2,6 +2,12 @@
 
 Faço Análise e Desenvolvimento de Sistemas na Faminas e sou trainee de Java na Foursys. Gosto de pegar o problema do começo: entender a regra de negócio, modelar o banco, montar a API e depois fazer a tela que consome ela.
 
+## Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,nodejs,express,ts,js,react,nextjs,tailwind,mysql,postgres,git,docker" alt="Java, Node.js, Express, TypeScript, JavaScript, React, Next.js, Tailwind, MySQL, PostgreSQL, Git, Docker" />
+</p>
+
 ## Projetos
 
 <p>
@@ -15,12 +21,6 @@ Faço Análise e Desenvolvimento de Sistemas na Faminas e sou trainee de Java na
 <p>
 <a href="https://github.com/joaovictorcascardo/equus-app"><img src="./assets/card-equus-app-dark.svg" alt="equus-app" width="49%"></a>
 <a href="https://github.com/joaovictorcascardo/analise-desempenho-estruturas-java"><img src="./assets/card-analise-desempenho-estruturas-java-dark.svg" alt="analise-desempenho-estruturas-java" width="49%"></a>
-</p>
-
-## Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,nodejs,express,ts,js,react,nextjs,tailwind,mysql,postgres,git,docker" alt="Java, Node.js, Express, TypeScript, JavaScript, React, Next.js, Tailwind, MySQL, PostgreSQL, Git, Docker" />
 </p>
 
 ## Contato
