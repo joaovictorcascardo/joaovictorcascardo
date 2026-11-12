@@ -26,8 +26,8 @@ Faço Análise e Desenvolvimento de Sistemas na Faminas e sou trainee de Java na
 ## Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/joaovictorcascardo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:joaovictorpachecoleite@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/joaovictorcascardo/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=56d364" alt="LinkedIn" /></a>
+  <a href="mailto:joaovictorpachecoleite@gmail.com"><img src="https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=56d364" alt="Gmail" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/joaovictorcascardo/joaovictorcascardo/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha comendo o gráfico de contribuições" width="100%">
